@@ -25,6 +25,10 @@ Q: *Why there's such complicated csgo launch method and I didn't use ``steam://r
 
 A: Well, the thing is that if we use ``runnappid`` method, steam ignores your launch options and start CS2 instead of CS:GO.
 
+Q: *Did you again use Claude Sonnet's help?*
+
+A: Yeah I did, why not?
+
 ### What code did I ~~stole~~ used. (Actually thanks for these repos)
 
 Memory allocation from this repo: https://github.com/xdcdmaybe/skeetcr4ck-injector 
